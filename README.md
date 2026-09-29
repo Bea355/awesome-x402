@@ -479,6 +479,7 @@ Projects building with or extending x402.
 
 - Dune Analytics x402 - On-chain metrics dashboard.
 - [CoinGecko x402 Tokens](https://coingecko.com/en/categories/x402) - Token category ($180M market).
+- [the musebook times wire](https://musebooktimes.com) - x402-monetized JSON events feed of town news, $0.01 USDC per pull on base.
 
 ### Developer Tools
 
